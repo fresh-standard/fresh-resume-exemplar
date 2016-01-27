@@ -1,0 +1,25 @@
+{
+  "name": "fresh-resume-exemplar",
+  "version": "0.1.0",
+  "description": "An examplar resume for the FRESH/FRESCA format.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fresh-standard/fresh-resume-exemplar.git"
+  },
+  "keywords": [
+    "resume",
+    "CV",
+    "FRESH",
+    "employment",
+    "schema",
+    "JSON",
+    "example"
+  ],
+  "author": "hacksalot <hacksalot@indevious.com> (https://github.com/hacksalot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fresh-standard/fresh-resume-exemplar/issues"
+  },
+  "main": "resume/jane-resume.json",
+  "homepage": "https://github.com/fresh-standard/fresh-resume-exemplar"
+}
